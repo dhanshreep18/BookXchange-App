@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "694826741586",
+    "project_id": "bookxchange-db268",
+    "storage_bucket": "bookxchange-db268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694826741586:android:fa4972217d2601e64e548b",
+        "android_client_info": {
+          "package_name": "com.example.bookxchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694826741586-avblgvpr1tquu0r4nbdpltv4kmp4akjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookxchange",
+            "certificate_hash": "9b10092bbde2e504c80f7817fe32a49f0427a037"
+          }
+        },
+        {
+          "client_id": "694826741586-l7j5pvgvebv4gbmh0562lvjvpsa9ghik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC26q7KKmu1hghZp0b9fGiNLOCR-cYhmnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694826741586-l7j5pvgvebv4gbmh0562lvjvpsa9ghik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
